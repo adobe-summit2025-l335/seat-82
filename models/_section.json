@@ -33,7 +33,7 @@
       ]
     }
   ],
-  "filters": [
+"filters": [
     {
       "id": "section",
       "components": [
@@ -44,8 +44,9 @@
         "hero",
         "cards",
         "columns",
+        "fragment",
         "teaser",
-        "fragment"
+        "events-list"
       ]
     }
   ]
